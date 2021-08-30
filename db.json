@@ -1,0 +1,52 @@
+{
+	"drivers": [
+		{
+			"name": "Test Driver 1",
+			"code": "0000001",
+			"interfaceCode": "I000001",
+			"vehicle": "M000001",
+			"vehicleType": "TRUCK",
+			"vehicleTypeImage": "TRUCK_IMAGE",
+			"totalDeliveries": 30,
+			"totalPickups": 15,
+			"deliveriesPending": 18,
+			"deliveriesIncident": 2,
+			"deliveriesMade": 10,
+			"pickupsPending": 7,
+			"pickupsIncident": 1,
+			"pickupsMade": 7
+		},
+		{
+			"name": "Test Driver 2",
+			"code": "0000002",
+			"interfaceCode": "I000002",
+			"vehicle": "M000002",
+			"vehicleType": "BIKE",
+			"vehicleTypeImage": "BIKE_IMAGE",
+			"totalDeliveries": 15,
+			"totalPickups": 3,
+			"deliveriesPending": 7,
+			"deliveriesIncident": 0,
+			"deliveriesMade": 8,
+			"pickupsPending": 2,
+			"pickupsIncident": 1,
+			"pickupsMade": 0
+		},
+		{
+			"name": "Test Driver 3",
+			"code": "0000003",
+			"interfaceCode": "I000003",
+			"vehicle": "M000003",
+			"vehicleType": "TRUCK",
+			"vehicleTypeImage": "TRUCK_IMAGE",
+			"totalDeliveries": 30,
+			"totalPickups": 14,
+			"deliveriesPending": 19,
+			"deliveriesIncident": 3,
+			"deliveriesMade": 8,
+			"pickupsPending": 8,
+			"pickupsIncident": 0,
+			"pickupsMade": 6
+		}
+	]
+}
